@@ -1,0 +1,14 @@
+{
+  "name": "api-dexxshoot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node dev.js",
+    "start": "node dev.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "express-rate-limit": "^7.4.0"
+  }
+}
